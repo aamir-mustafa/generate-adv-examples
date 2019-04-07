@@ -1,7 +1,7 @@
 # generate-adv-examples
 This repository is a PyTorch Implementation of generating adversarial images using various types of attacks schemes.
 
-![Figure 1](sample.png)
+![Figure 1](sample.pdf)
 
 ## Clone the repository
 Clone this repository into any place you want.
